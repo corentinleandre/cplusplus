@@ -1,0 +1,3 @@
+C:/ENSISA/C++/timeseries/cmake-build-debug/CMakeFiles/timeseries.dir
+C:/ENSISA/C++/timeseries/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ENSISA/C++/timeseries/cmake-build-debug/CMakeFiles/rebuild_cache.dir

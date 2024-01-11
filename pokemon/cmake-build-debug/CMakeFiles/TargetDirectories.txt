@@ -1,0 +1,3 @@
+C:/ENSISA/C++/pokemon/cmake-build-debug/CMakeFiles/pokemon.dir
+C:/ENSISA/C++/pokemon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ENSISA/C++/pokemon/cmake-build-debug/CMakeFiles/rebuild_cache.dir

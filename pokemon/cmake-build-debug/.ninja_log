@@ -1,0 +1,12 @@
+# ninja log v5
+1498	1801	7264051154825010	pokemon.exe	aa0a8297e65e2404
+8	1091	7264033291909707	CMakeFiles/pokemon.dir/Card.cpp.obj	3b319a8a552bd8d5
+9	1831	7264027210528139	CMakeFiles/pokemon.dir/PokemonCard.cpp.obj	be0406b41cf8695e
+6	1287	7264051149783045	CMakeFiles/pokemon.dir/main.cpp.obj	e71821c7f988cb07
+28	1164	7264051148545291	CMakeFiles/pokemon.dir/TrainerCard.cpp.obj	5b2df95604965488
+91	955	7249667532377342	CMakeFiles/pokemon.dir/EnergyCard.cpp.obj	5df3454fa6d77ee9
+13	1344	7264051880998115	CMakeFiles/pokemon.dir/Player.cpp.obj	3e8c40eaf77d1b66
+6	985	7264052106133360	CMakeFiles/pokemon.dir/PokemonCard.cpp.obj	be0406b41cf8695e
+986	1338	7264052109652413	pokemon.exe	aa0a8297e65e2404
+7	2218	7264059414199882	CMakeFiles/pokemon.dir/PokemonCard.cpp.obj	be0406b41cf8695e
+2222	2830	7264059420052661	pokemon.exe	aa0a8297e65e2404

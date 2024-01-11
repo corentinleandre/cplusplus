@@ -1,0 +1,12 @@
+# ninja log v5
+2	788	7266294401469034	CMakeFiles/timeseries.dir/main.cpp.obj	275014fc8d7cdc38
+19	956	7266294403159450	CMakeFiles/timeseries.dir/impl/GaussianGenerator.cpp.obj	8f804a7e2e0bea16
+35	978	7266294403391871	CMakeFiles/timeseries.dir/impl/TimeSeriesGenerator.cpp.obj	71632a21cded4e35
+978	1297	7266294406521619	timeseries.exe	e81819a318c7842c
+33	159	7267164391383087	CMakeFiles/timeseries.dir/impl/StepGenerator.cpp.obj	325d4d3eb8213221
+56	576	7267164395620289	CMakeFiles/timeseries.dir/impl/SinWaveGenerator.cpp.obj	2c3600590f01774e
+22	880	7267164398639455	CMakeFiles/timeseries.dir/impl/KNN.cpp.obj	6b1a94c6d1140957
+27	886	7267167814673403	CMakeFiles/timeseries.dir/impl/KNN.cpp.obj	6b1a94c6d1140957
+5	974	7267167815568937	CMakeFiles/timeseries.dir/main.cpp.obj	275014fc8d7cdc38
+17	1198	7267167817788676	CMakeFiles/timeseries.dir/impl/TimeSeriesDataset.cpp.obj	ea3c18d1563ea0f8
+1198	1586	7267167821629564	timeseries.exe	7b6485bde3ba1beb
